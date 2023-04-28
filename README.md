@@ -4,7 +4,6 @@
 
 Compatible with Icarus Version: Rev. Rev. 1.2.48.110271 (Week: 73)
 
-
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
 
