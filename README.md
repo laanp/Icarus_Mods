@@ -1,5 +1,4 @@
 # laanp-Combined_QOL_v1_w73_P.pak
-=============================================================================================
 
 ## Mod Version: 1
 
@@ -10,7 +9,6 @@ Compatible with Icarus Version: Rev. Rev. 1.2.48.110271 (Week: 73)
 
 
 ## Description:
--------------------------------
 
 Combines several mods, including some of my own, and others that include:
 
@@ -21,10 +19,8 @@ for the Jimk72 Mod Manager, and tonnes of other stuff from other modders for Ica
 
 ## Files Affected & Mod Details:
 
------------------------------------------------------------------------------------------------------------------------------------
-1.   laanp base changes:
-
------------------------------------------------------------------------------------------------------------------------------------
+**1.   laanp base changes:**
+-----------------
 Modifies all the stuff we like, including:
 
  - No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
@@ -47,8 +43,8 @@ Modifies all the stuff we like, including:
  - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
    at the Rustic Decorations Bench, and stone statues at the masonary bench.
  - Adds the workshop purchasable (instead of Berries) the "Pete's Starter Stone Cabin Kit" - a starter kit including:
-	- 30 Stone Floors			- 1 Crafting Bench
-	- 20 Stone Ramps			- 1 Herbalism Bench
+   - 30 Stone Floors			1 Crafting Bench
+   - 20 Stone Ramps			1 Herbalism Bench
                 - 20 Stone Walls              - 1 Bedroll  
                 - 4 Stone Angled Walls    - 1 Mortar & Pestle
                 - 1 reinforced door          - 2 Stone Furnaces
