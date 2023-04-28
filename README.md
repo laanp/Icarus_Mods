@@ -9,18 +9,19 @@ Compatible with Icarus Version: Rev. Rev. 1.2.48.110271 (Week: 73)
 
 Description:
 -------------------------------
-Combines several mods, including some of my own, and others that include:
-           CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) - See JimK72 other mods here: https://github.com/Jimk72/Icarus_Mods
-           Also, visit the all things modding Discord channel https://discord.gg/linkarus-icarus-modding-936621749733302292
-	   for the Jimk72 Mod Manager, and tonnes of other stuff for Icarus. 
+	Combines several mods, including some of my own, and others that include:
+		CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) - See JimK72 other mods here: https://github.com/Jimk72/Icarus_Mods
+		visit the all things modding Discord channel https://discord.gg/linkarus-icarus-modding-936621749733302292
+		for the Jimk72 Mod Manager, and tonnes of other stuff for Icarus. 
 
 Files Affected & Mod Details:	
 -----------------------------------------------------------------------------------------------------------------------------------
 1.   laanp base changes:  
 -----------------------------------------------------------------------------------------------------------------------------------
 Modifies all the stuff we like, including:
-	- No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
-        - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
+
+ - No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
+ - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
 	- O2 Tank & water canteen purchased from the Workshop will come into inventory autofilled
 	- Workshop MXC BioFuel Canister can be purchased and will autofill with 100M units (can run a generator for a long time!)
 	- Workshop MXC Furnace has been modified (smelts faster than the electric furnace, and can be portable, not affected by weather) 
@@ -116,7 +117,7 @@ Server machine:
 Make sure Icarus has been shutdown, 
 Place all your mod files (*.pak) in the server game mods folder located here:
 
-<drive>:\<IcarusServerFolder>\Icarus\Content\Paks\mods
+(drive):\<IcarusServerFolder>\Icarus\Content\Paks\mods
 
 if the ...\mods directory does not exist, create it.
 
@@ -124,6 +125,7 @@ Use the exact same mods on both server and client machine or else run the risk o
 Usually the server will override anything running on the local machine(s), but match them to stay out of trouble.
 
 Enjoy!
+
 
 
 
