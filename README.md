@@ -17,10 +17,10 @@ See JimK72 other mods here: [https://github.com/Jimk72/Icarus_Mods](https://gith
 Visit the all things modding Discord channel [Discord - Linkarus](https://discord.gg/linkarus-icarus-modding-936621749733302292)
 for the Jimk72 Mod Manager, and tonnes of other stuff from other modders for Icarus.
 
-## Files Affected & Mod Details:
+## Mod Details:
 
-**1.   laanp base changes:**
------------------
+### 1.   laanp base changes:
+
 Modifies all the stuff we like, including:
 
  - No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
@@ -43,37 +43,64 @@ Modifies all the stuff we like, including:
  - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
    at the Rustic Decorations Bench, and stone statues at the masonary bench.
  - Adds the workshop purchasable (instead of Berries) the "Pete's Starter Stone Cabin Kit" - a starter kit including:
-   - 30 Stone Floors			1 Crafting Bench
-   - 20 Stone Ramps			1 Herbalism Bench
-                - 20 Stone Walls              - 1 Bedroll  
-                - 4 Stone Angled Walls    - 1 Mortar & Pestle
-                - 1 reinforced door          - 2 Stone Furnaces
-                - 40 Concrete Beams	- 1 Anvil
-                - 1 Campfire                    - 1 Masonry Bench
-                - 1 Bedroll                  
-                - Upgraded MXC Furnace (smelts faster than the electric furnace, and can be portable, not affected by weather)  
+   - 30 Stone Floors
+   - 20 Stone Ramps	
+   - 20 Stone Walls
+   - 4 Stone Angled Walls
+   - 1 reinforced door
+   - 40 Concrete Beams
+   - 1 Campfire
+   - 1 Bedroll
+   - Upgraded MXC Furnace (smelts faster than the electric furnace, and can be portable, not affected by weather)  
+   - 1 Crafting Bench
+   - 1 Herbalism Bench
+   - 1 Bedroll
+   - 1 Mortar & Pestle
+   - 2 Stone Furnaces
+   - 1 Anvil
+   - 1 Masonry Bench
 
-	- Adds the workshop purchasable (instead of carrots) the "Pete's Starter Loadout Kit" - a starter kit including:
-        	ST-700 Arms Armor		Gatherer's Backpack
-		ST-700 Chest Armor		Shengong 'Liwei' O2 Tank (prefilled) 
-		ST-700 Feet Armor		        Shengong 'Hulu' Canteen (prefilled)
-		ST-700 Head Armor		(2) Mass Dampener Module
-		ST-700 Legs Armor		        (1) Wooden Torch
-		Inaris "Ventura" Knife		Larkwell Martinez Compound Bow
-		Titanium Pickaxe		       (1) Larkwell Arrow Bundle (100,000 arrows!)
-		Inaris "Dias" Axe		       Workshop Repair Kit Bundle
-		MXC BioFuel Canister (prefilled with 10M units of biofuel!)
-		(2) Micromeal (turns into the teleporter bundle)
-		(1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
-                           
-	- Adds the workshop purchasable (instead of wheat) the "Pete's All Seeds Farming Packet" - a farming seed kit that expands to:
-		(5) Berry		(5) Corn               (5) Coffee
-		(5) Soy Bean	(5) Pumpkin         (5) Wild Tea
-		(5) Carrot    	(5) Mushroom        ***** PLUS - Seeds you can only get using Open World Mission Generator *******
-		(5) Lily		(5) Squash           (20) Rhubarb
-		(5) Reed_Flower (5) Watermelon (20) Kumara
-		(5) Yeast		 (5) Cocoa           (20) Avocado
-                                                                    (20) Strawberry
+ - Adds the workshop purchasable (instead of carrots) the "Pete's Starter Loadout Kit" - a starter kit including:
+   - ST-700 Arms Armor
+   - ST-700 Chest Armor
+   - ST-700 Feet Armor
+   - ST-700 Head Armor
+   - ST-700 Legs Armor
+   - Gatherer's Backpack (better stats)
+   - Shengong 'Liwei' O2 Tank (prefilled)
+   - Shengong 'Hulu' Canteen (prefilled)
+   - Inaris "Ventura" Knife (high durability, added stats)
+   - Inaris "Dias" Axe (high durability, added stats)
+   - Larkwell Martinez Compound Bow (better stats)
+   - Larkwell Arrow Bundle (100,000 arrows!)
+   - Titanium Pickaxe (high durability, added stats)
+   - Larkwell Arrow Bundle (100,000 arrows!)
+   - Workshop Repair Kit Bundle
+   - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
+   - Wooden Torch (high durability - lasts forever!)
+   - (2) Mass Dampener Module (50% speed increase each)
+   - (2) Micromeal (turns into the teleporter bundle)
+   - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
+
+- Adds the workshop purchasable (instead of wheat) the "Pete's All Seeds Farming Packet" - a farming seed kit that expands to:
+  - (5) Berry
+  - (5) Corn
+  - (5) Coffee
+  - (5) Soy Bean
+  - (5) Pumpkin
+  - (5) Wild Tea
+  - (5) Carrot
+  - (5) Mushroom
+  - (5) Lily
+  - (5) Squash
+  - (5) Reed_Flower
+  - (5) Watermelon
+  - (5) Yeast
+  - (5) Cocoa
+  - (20) Kumara
+  - (20) Rhubarb
+  - (20) Avocado
+    (20) Strawberry
 
 -----------------------------------------------------------------------------------------------------------------------------------
 2.   CustomOptions:  JimK72 mod that has an interface to set Jump height, and other things
