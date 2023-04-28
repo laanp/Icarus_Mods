@@ -1,7 +1,7 @@
-#laanp-Combined_QOL_v1_w73_P.pak
+# laanp-Combined_QOL_v1_w73_P.pak
 =============================================================================================
 
-##Mod Version: 1
+## Mod Version: 1
 
 Compatible with Icarus Version: Rev. Rev. 1.2.48.110271 (Week: 73)
 
@@ -9,16 +9,17 @@ Compatible with Icarus Version: Rev. Rev. 1.2.48.110271 (Week: 73)
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
 
-##Description:
+## Description:
 -------------------------------
 
 Combines several mods, including some of my own, and others that include:
 
-CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72) - See JimK72 other mods here: [https://github.com/Jimk72/Icarus_Mods](https://github.com/Jimk72/Icarus_Mods)
-visit the all things modding Discord channel https://discord.gg/linkarus-icarus-modding-936621749733302292
-for the Jimk72 Mod Manager, and tonnes of other stuff for Icarus. 
+CustomOptions(Jimk72), Teleporter(Jimk72) and Camera_Distance(JimK72)
+See JimK72 other mods here: [https://github.com/Jimk72/Icarus_Mods](https://github.com/Jimk72/Icarus_Mods)
+Visit the all things modding Discord channel [Discord - Linkarus](https://discord.gg/linkarus-icarus-modding-936621749733302292)
+for the Jimk72 Mod Manager, and tonnes of other stuff from other modders for Icarus.
 
-Files Affected & Mod Details:
+## Files Affected & Mod Details:
 
 -----------------------------------------------------------------------------------------------------------------------------------
 1.   laanp base changes:
@@ -45,10 +46,9 @@ Modifies all the stuff we like, including:
  - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
  - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
    at the Rustic Decorations Bench, and stone statues at the masonary bench.
-
-	- Adds the workshop purchasable (instead of Berries) the "Pete's Starter Stone Cabin Kit" - a starter kit including:
-        	- 30 Stone Floors            - 1 Crafting Bench
-		- 20 Stone Ramps           - 1 Herbalism Bench
+ - Adds the workshop purchasable (instead of Berries) the "Pete's Starter Stone Cabin Kit" - a starter kit including:
+	- 30 Stone Floors			- 1 Crafting Bench
+	- 20 Stone Ramps			- 1 Herbalism Bench
                 - 20 Stone Walls              - 1 Bedroll  
                 - 4 Stone Angled Walls    - 1 Mortar & Pestle
                 - 1 reinforced door          - 2 Stone Furnaces
