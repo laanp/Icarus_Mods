@@ -1,8 +1,9 @@
-# laanp-Combined_QOL_v1_w73_P.pak
+laanp-Combined_QOL_v1_w74_P.pak
+=============================================================================================
+Mod Version: 1
+Compatible with Icarus Version: Rev. Rev. 1.2.49.110526 (Week: 74)
 
-## Mod Version: 1
 
-Compatible with Icarus Version: Rev. Rev. 1.2.48.110271 (Week: 73)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -99,23 +100,24 @@ Modifies all the stuff we like, including:
   - (20) Kumara
   - (20) Rhubarb
   - (20) Avocado
-    (20) Strawberry
+  - (20) Strawberry
 
------------------------------------------------------------------------------------------------------------------------------------
-2.   CustomOptions:  JimK72 mod that has an interface to set Jump height, and other things
------------------------------------------------------------------------------------------------------------------------------------
-Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
-Right-mouse button when fists equipped to bring up menu.
-Allows temporary removal of all nearby caveworms (until next spawn time) - only works in single player mode (non-server)
-An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-An option to put out all fires - only works in single player mode (non-server)
-                                
+### 2. CustomOptions (Jimk72):
 
+Mod by JimK72 that has an interface to set Jump height, and other things
+
+- Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
+- Right-mouse button when fists equipped to bring up menu.
+- Allows temporary removal of all nearby caveworms (until next spawn time) - only works in single player mode (non-server)
+- An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
+- An option to put out all fires - only works in single player mode (non-server)
+
+
+### 3. Teleporter (JimK72)
 -----------------------------------------------------------------------------------------------------------------------------------
-3.   Teleporter (JimK72)
------------------------------------------------------------------------------------------------------------------------------------
-Purchase at the workshop (replaces Ration item) and unbundle will yield a teleporter base and handheld remote in-game
-2 x base units allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
+A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Budle Kit.
+This kit unbundles to a teleporter base and handheld remote you can use in-game
+If you purchase 2 x base units allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
 while holding the remote. Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -152,4 +154,6 @@ Use the exact same mods on both server and client machine or else run the risk o
 Usually the server will override anything running on the local machine(s), but match them to stay out of trouble.
 
 Enjoy!
+
+
 
