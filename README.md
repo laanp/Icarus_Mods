@@ -1,8 +1,7 @@
-laanp-Combined_QOL_v1_w74_P.pak
+laanp-Combined_QOL_v1_w75_P.pak
 =============================================================================================
 Mod Version: 1
-Compatible with Icarus Version: Rev. Rev. 1.2.49.110526 (Week: 74)
-
+Compatible with Icarus Version: Rev. Rev. 1.2.50.110601 (Week: 75)
 
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
@@ -38,7 +37,7 @@ Modifies all the stuff we like, including:
  - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
  - "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
  - "Pete's All Seeds Farming Packet" - Workshop replacement of Wheat Seeds - Contains all seeds, including OW mission reward seeds.
- - "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance 
+ - Changed the basic Xigo S5-II suit, as well as the "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance 
  - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
  - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
    at the Rustic Decorations Bench, and stone statues at the masonary bench.
@@ -69,15 +68,16 @@ Modifies all the stuff we like, including:
    - Gatherer's Backpack (better stats)
    - Shengong 'Liwei' O2 Tank (prefilled)
    - Shengong 'Hulu' Canteen (prefilled)
-   - Inaris "Ventura" Knife (high durability, added stats)
-   - Inaris "Dias" Axe (high durability, added stats)
    - Larkwell Martinez Compound Bow (better stats)
    - Larkwell Arrow Bundle (100,000 arrows!)
    - Titanium Pickaxe (high durability, added stats)
-   - Larkwell Arrow Bundle (100,000 arrows!)
-   - Workshop Repair Kit Bundle
+   - Titanium Axe (high durability, added stats)
+   - Titanium Knife (high durability, added stats)
    - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
    - Wooden Torch (high durability - lasts forever!)
+   - (20) Dried String Meat
+   - (10) Antibiotic Tonic
+   - (10) Anit-Poison Tonic
    - (2) Mass Dampener Module (50% speed increase each)
    - (2) Micromeal (turns into the teleporter bundle)
    - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
@@ -114,18 +114,16 @@ Mod by JimK72 that has an interface to set Jump height, and other things
 
 
 ### 3. Teleporter (JimK72)
------------------------------------------------------------------------------------------------------------------------------------
+
 A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Budle Kit.
 This kit unbundles to a teleporter base and handheld remote you can use in-game
 If you purchase 2 x base units allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
 while holding the remote. Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running
 
------------------------------------------------------------------------------------------------------------------------------------
-4.   Camera_Distance (JimK72)
+### 4.   Camera_Distance (JimK72)
 Removes distance limitation on camera mode, as well as the camera reticle & menu items 
 (use 'ESC'=exit, 'Alt'=menu, "CTRL"=DOWN, "spacebar"=UP) 
------------------------------------------------------------------------------------------------------------------------------------
-	
+
      
 ---------------------------------------------------
 Installation Details
@@ -154,6 +152,4 @@ Use the exact same mods on both server and client machine or else run the risk o
 Usually the server will override anything running on the local machine(s), but match them to stay out of trouble.
 
 Enjoy!
-
-
 
