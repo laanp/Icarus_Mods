@@ -1,8 +1,7 @@
-laanp-Combined_QOL_v1_w75_P.pak
+laanp-Combined_QOL_v1_w76_P.pak
 =============================================================================================
 Mod Version: 1
-Compatible with Icarus Version: Rev. Rev. 1.2.50.110601 (Week: 75)
-
+Compatible with Icarus Version: Rev. Rev. 1.2.51.110973 (Week: 76)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
