@@ -1,7 +1,8 @@
-laanp-Combined_QOL_v1_w76_P.pak
+laanp-Combined_QOL_v2_w77_P.pak
 =============================================================================================
-Mod Version: 1
-Compatible with Icarus Version: Rev. Rev. 1.2.51.110973 (Week: 76)
+Mod Version: 2
+Compatible with Icarus Version: Rev. Rev. 1.2.52.111537 (Week: 77)
+
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -151,4 +152,8 @@ Use the exact same mods on both server and client machine or else run the risk o
 Usually the server will override anything running on the local machine(s), but match them to stay out of trouble.
 
 Enjoy!
+
+
+
+
 
