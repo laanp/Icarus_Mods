@@ -4,6 +4,7 @@ Mod Version: 2
 Compatible with Icarus Version: Rev. Rev. 1.2.52.111537 (Week: 77)
 
 
+
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
 
@@ -104,30 +105,30 @@ Modifies all the stuff we like, including:
 
 ### 2. CustomOptions (Jimk72):
 
-Mod by JimK72 that has an interface to set Jump height, and other things
+Mod by JimK72 introduces an interface to set Jump height, and other things
 
 - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
 - Right-mouse button when fists equipped to bring up menu.
-- Allows temporary removal of all nearby caveworms (until next spawn time) - only works in single player mode (non-server)
+- Allows temporary removal of all nearby caveworms (until next spawn time)
 - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-- An option to put out all fires - only works in single player mode (non-server)
+- An option to put out all fires
+- An option to return via dropshop from anywhere
 
 
 ### 3. Teleporter (JimK72)
 
-A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Budle Kit.
+A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
 This kit unbundles to a teleporter base and handheld remote you can use in-game
-If you purchase 2 x base units allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
+If you purchase 2 x Teleporter bundle kits, it allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
 while holding the remote. Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running
 
-### 4.   Camera_Distance (JimK72)
-Removes distance limitation on camera mode, as well as the camera reticle & menu items 
-(use 'ESC'=exit, 'Alt'=menu, "CTRL"=DOWN, "spacebar"=UP) 
+### 4.   Clear_Photo_Lens (JimK72)
 
-     
----------------------------------------------------
-Installation Details
---------------------------------------------------
+Removes distance limitation on camera mode, as well as the camera reticle & menu items 
+(use 'ESC'=exit, 'Alt'=menu, "CTRL"=DOWN, "spacebar"=UP, Left, Right movement keys) 
+
+
+## Installation Details
 
 Client (Local) machine:
 -----------------------
@@ -137,6 +138,9 @@ Place all your mod files (*.pak) in the game mods folder located here:
 C:\Program Files (x86)\Steam\steamapps\common\Icarus\Icarus\Content\Paks\mods
 
 if the ...\mods directory does not exist, create it.
+
+If you are playing multiplayer where one person is hosting, Use the exact same mods
+on everyone's PC, or else run the risk of weird shit happening.
 
 
 Server machine:
@@ -151,9 +155,22 @@ if the ...\mods directory does not exist, create it.
 Use the exact same mods on both server and client machine or else run the risk of weird shit happening.
 Usually the server will override anything running on the local machine(s), but match them to stay out of trouble.
 
-Enjoy!
 
+## Disclaimer
 
+I have been playing with these mods for quite some time now, with no problems... having said that:
 
+- Backup and save all user data before installing or using any mods.
+- Use at your own risk.
+- This mod is standalone, and may not be compatible with other mods.
+- This mod changes storage cabinets & bench inventory slot sizes.  
+   If you fill all slots in these benches/storage cabinets on a prospect and return to it without these mods running, you will lose
+   all those items in those additional slots. 
+- Feel free to drop me any ideas for mod changes/suggestions, but I have custom built this mod for my enjoyment, which I am sharing with others and
+  reserve the right to modify at my own discretion.
+- Feel free to re-distribute this mod provided recipients are directed to this Readme for mod credits and are aware of this Disclaimer and Known Bugs
+- Feel free to unpack and reassemble with modding tools, but if repacking and distributing, remove my "laanp" name from any distribution material.
+ 
 
+Enjoy Prospectors!
 
