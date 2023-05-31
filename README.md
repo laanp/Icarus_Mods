@@ -141,7 +141,7 @@ if the ...\mods directory does not exist, create it.
 
 If you are playing multiplayer where one person is hosting, Use the exact same mods
 on everyone's PC, or else run the risk of weird shit happening.
-
+Usually the hosting player settings/mods will override anything running on the local machine(s), but match the mods to stay out of trouble.
 
 Server machine:
 -----------------------
@@ -153,7 +153,32 @@ Place all your mod files (*.pak) in the server game mods folder located here:
 if the ...\mods directory does not exist, create it.
 
 Use the exact same mods on both server and client machine or else run the risk of weird shit happening.
-Usually the server will override anything running on the local machine(s), but match them to stay out of trouble.
+Usually the server settings/mods will override anything running on the local machine(s), but match the mods to stay out of trouble.
+
+
+## Known Bugs/Issues/Notes - As of this current release.
+
+- Camera Mode (Numpad 8) does not seem to work on the Dedicated Server app.  When you go into camera mode, everything functions ok, but when you hit 'ESC' 
+  to get back to your character, the Icarus game will crash! - It works ok in single player client mode. This is an app issue, not a mod issue.
+  I am monitoring it and will update this status.
+  
+- Custom Options Interface:
+     "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
+     "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server, maybe just building fires? - haven't tested yet.
+     "Clear Foliage" - Don't panic if you accidentally hit this and all your local flora is gone.  It only lasts for your current session.
+
+- Teleporter:  
+     There is a known issue where ocassionally, after you teleport back to a saved destination when you walk over the teleport pad, you will teleport 
+     and the screen will become pitch black.  Just activate the remote on your hotbar (remember the key), and teleport back to the teleport pad.  
+     The screen should correct itself, then step off the pad and walk back over it to retry the teleport to the saved location.  
+     It will work the 2nd time you try.
+
+- As mentioned in my Videos, none of the unbundled equipment will come back with you after you leave the prospect via dropship. 
+     You need to spend the $1 it costs at the Workshop to buy the kits, before launching any mission, Open World, or Outpost. 
+
+- If you are using "Pete's Resource Killer" module (1 hit for tree, rocks and ore gathering) - it goes without saying if you are chopping a tree
+     with your axe, and do not have the Talent "Seasoned Logsman" - the one that auto picks up your wood, you'll end up with wood pieces all over
+     the place and not in your inventory!  This is expected behaviour.
 
 
 ## Disclaimer
@@ -163,6 +188,7 @@ I have been playing with these mods for quite some time now, with no problems...
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
 - This mod is standalone, and may not be compatible with other mods.
+- If you are interested in managing multiple mods from other sources, Use JimK72's Mod Manager [https://github.com/Jimk72/Icarus_Software](https://github.com/Jimk72/Icarus_Software) 
 - This mod changes storage cabinets & bench inventory slot sizes.  
    If you fill all slots in these benches/storage cabinets on a prospect and return to it without these mods running, you will lose
    all those items in those additional slots. 
