@@ -19,9 +19,9 @@ for the Jimk72 Mod Manager, and tonnes of other stuff from other modders for Ica
 
 ## Mod Details:
 
-### 1.   laanp base changes:
+### 1.  laanp base changes:
 
-Modifies all the stuff we like, including:
+Modifies all the stuff I like, including:
 
  - No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
  - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
@@ -103,26 +103,27 @@ Modifies all the stuff we like, including:
   - (20) Avocado
   - (20) Strawberry
 
-### 2. CustomOptions (Jimk72):
+### 2.  CustomOptions (Jimk72):
 
 Mod by JimK72 introduces an interface to set Jump height, and other things
 
 - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
 - Right-mouse button when fists equipped to bring up menu.
-- Allows temporary removal of all nearby caveworms (until next spawn time)
 - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
+- Allows temporary removal of all nearby caveworms (until next spawn time)
+- An option to clear all weather 
 - An option to put out all fires
-- An option to return via dropshop from anywhere
+- An option to leave via dropshop from anywhere
 
 
-### 3. Teleporter (JimK72)
+### 3.  Teleporter (JimK72)
 
 A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
 This kit unbundles to a teleporter base and handheld remote you can use in-game
 If you purchase 2 x Teleporter bundle kits, it allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
 while holding the remote. Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running
 
-### 4.   Clear_Photo_Lens (JimK72)
+### 4.  Clear_Photo_Lens (JimK72)
 
 Removes distance limitation on camera mode, as well as the camera reticle & menu items 
 (use 'ESC'=exit, 'Alt'=menu, "CTRL"=DOWN, "spacebar"=UP, Left, Right movement keys) 
@@ -141,19 +142,21 @@ if the ...\mods directory does not exist, create it.
 
 If you are playing multiplayer where one person is hosting, Use the exact same mods
 on everyone's PC, or else run the risk of weird shit happening.
-Usually the hosting player settings/mods will override anything running on the local machine(s), but match the mods to stay out of trouble.
+Usually the hosting player settings/mods will override anything running on the local client machine(s), but match the mods to stay out of trouble.
 
-Server machine:
+Dedicated Server machine:
 -----------------------
 Make sure Icarus has been shutdown, 
-Place all your mod files (*.pak) in the server game mods folder located here:
+Place all your mod files (*.pak) in the dedicated server game mods folder located here:
 
 (drive):\<IcarusServerFolder>\Icarus\Content\Paks\mods
+
+NOTE - Replace (drive):\<IcarusServerFolder>\ with the applicable location you installed your Icarus Dedicated Server app.
 
 if the ...\mods directory does not exist, create it.
 
 Use the exact same mods on both server and client machine or else run the risk of weird shit happening.
-Usually the server settings/mods will override anything running on the local machine(s), but match the mods to stay out of trouble.
+Usually the server settings/mods will override anything running on the local client machine(s), but match the mods to stay out of trouble.
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
@@ -163,9 +166,9 @@ Usually the server settings/mods will override anything running on the local mac
   I am monitoring it and will update this status.
   
 - Custom Options Interface:
-     "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
-     "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server, maybe just building fires? - haven't tested yet.
-     "Clear Foliage" - Don't panic if you accidentally hit this and all your local flora is gone.  It only lasts for your current session.
+  - "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
+  - "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server, maybe just building fires? - haven't tested yet.
+  - "Clear Foliage" - Don't panic if you accidentally hit this and all your local flora is gone.  It only lasts for your current session.
 
 - Teleporter:  
      There is a known issue where ocassionally, after you teleport back to a saved destination when you walk over the teleport pad, you will teleport 
