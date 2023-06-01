@@ -104,7 +104,7 @@ Modifies all the stuff I like, including:
 
 ### 2.  Custom_Options (Jimk72):
 
-Mod by JimK72 introduces an interface to set Jump height, and other things
+Mod by JimK72 introduces an interface to set Jump height, and other things.
 Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
 
 - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
@@ -208,4 +208,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
+
+
 
