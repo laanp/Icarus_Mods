@@ -104,7 +104,8 @@ Modifies all the stuff I like, including:
 
 ### 2.  Custom_Options (Jimk72):
 
-Mod by JimK72 introduces an interface to set Jump height, and other things.
+Mod by JimK72 introduces an interface to set Jump height, and other things. 
+
 Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
 
 - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
@@ -125,8 +126,11 @@ while holding the remote. Tested and works in server mode of play - ensure every
 
 ### 4.  Clear_Photo_Lens (JimK72)
 
-Removes distance limitation on camera mode, as well as the camera reticle & menu items 
-(use 'ESC'=exit, 'Alt'=menu, "CTRL"=DOWN, "spacebar"=UP, Left, Right movement keys) 
+A mod by JimK72 that extends distance limitation in camera mode, as well as removes the camera reticle & menu items
+
+Activate photo mode by hitting Numpad8
+ 
+Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
 
 
 ## Installation Details
@@ -208,8 +212,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
 
