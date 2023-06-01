@@ -195,6 +195,8 @@ I have been playing with these mods for quite some time now, with no problems...
 - Backup and save all user data before installing or using any mods.
 - Use at your own risk.
 - This mod is standalone, and may not be compatible with other mods.
+- Ensure you are running the latest version of this mod with the latest version of Icarus.  Hint: the _w77_ in the mod file name means mod is compatible 
+    with Week 77 Icarus release.  The _v1...2 etc in the mod file name refers to mod enhancements or fixes within the same week release. 
 - If you are interested in managing multiple mods from other sources, Use JimK72's Mod Manager [https://github.com/Jimk72/Icarus_Software](https://github.com/Jimk72/Icarus_Software) 
 - This mod changes storage cabinets & bench inventory slot sizes.  
    If you fill all slots in these benches/storage cabinets on a prospect and return to it without these mods running, you will lose
