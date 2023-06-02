@@ -1,7 +1,7 @@
-laanp-Combined_QOL_v2_w77_P.pak
+laanp-Combined_QOL_v1_w78_P.pak
 =============================================================================================
-Mod Version: 2
-Compatible with Icarus Version: Rev. Rev. 1.2.52.111537 (Week: 77)
+Mod Version: 1
+Compatible with Icarus Version: Rev. Rev. 1.3.0.111847 (Week: 78) - Fishing Update!
 
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
