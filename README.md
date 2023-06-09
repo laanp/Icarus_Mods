@@ -1,7 +1,7 @@
-laanp-Combined_QOL_v1_w78_P.pak
+laanp-Combined_QOL_v1_w79_P.pak
 =============================================================================================
 Mod Version: 1
-Compatible with Icarus Version: Rev. Rev. 1.3.0.111847 (Week: 78) - Fishing Update!
+Compatible with Icarus Version: Rev. Rev. 1.3.1.112063 (Week: 79)
 
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
@@ -31,7 +31,7 @@ Modifies all the stuff I like, including:
  - Bigger slot sizes for benches, fireplace, firepit, campfire, furnaces, wood cupboard, fridge, freezer etc.
  - High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
  - High durability on wooden torch (only need one for the entire game!)
- - Water Pump with lower power requirements (500) and high water output (2000) - No need for additional pump
+ - Water Pump with lower power requirements (500) and high water output (5000) - No need for additional pump
  - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
  - Larkwell Bow Standard arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
  - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
@@ -165,10 +165,6 @@ Usually the server settings/mods will override anything running on the local cli
 
 ## Known Bugs/Issues/Notes - As of this current release.
 
-- Camera Mode (Numpad 8) does not seem to work on the Dedicated Server app.  When you go into camera mode, everything functions ok, but when you hit 'ESC' 
-  to get back to your character, the Icarus game will crash! - It works ok in single player client mode. This is an app issue, not a mod issue.
-  I am monitoring it and will update this status.
-  
 - Custom Options Interface:
   - "Deactivate Cave Worms" only works in single player client mode, Does not work on Dedicated Server.
   - "Extinguish Fire" - Does not seem to work on forest fires in both single player & Dedicated Server, maybe just building fires? - haven't tested yet.
@@ -214,4 +210,5 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
 
