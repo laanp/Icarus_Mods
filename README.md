@@ -1,8 +1,7 @@
-laanp-Combined_QOL_v1_w80_P.pak
+laanp-Combined_QOL_v1_w81_P.pak
 =============================================================================================
 Mod Version: 1
-Compatible with Icarus Version: Rev. Rev. 1.3.2.112287 (Week: 80)
-
+Compatible with Icarus Version: Rev. Rev. 1.3.3.112540 (Week: 81)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -210,3 +209,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
