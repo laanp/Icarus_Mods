@@ -3,7 +3,6 @@ laanp-Combined_QOL_v1_w82_P.pak
 Mod Version: 1
 Compatible with Icarus Version: Rev. Rev. 1.3.4.112906 (Week: 82)
 
-
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
 
@@ -183,6 +182,15 @@ Usually the server settings/mods will override anything running on the local cli
      with your axe, and do not have the Talent "Seasoned Logsman" - the one that auto picks up your wood, you'll end up with wood pieces all over
      the place and not in your inventory!  This is expected behaviour.
 
+## Youtube Links on Overview & How To Use:
+- [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
+- [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
+- [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
+
+
+## Want Separated Mods?
+
+- Visit my separated mods page (by request): [https://github.com/laanp/Icarus_Mods_Separated](https://github.com/laanp/Icarus_Mods_Separated)
 
 ## Disclaimer
 
@@ -210,5 +218,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
 
