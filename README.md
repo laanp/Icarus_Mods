@@ -1,11 +1,10 @@
-laanp-Combined_QOL_v1_w83_P.pak
-=============================================================================================
+laanp-Combined_QOL_v1_w84_P.pak
+----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. Rev. 1.3.5.113110 (Week: 83)
+Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
-
 
 ## Description:
 Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
@@ -96,7 +95,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
 Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
 - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
-- Right-mouse button when fists equipped to bring up menu.
+- Hit "H" key to bring up the hands in the hud.
+- Right-mouse button to bring up Custom Options menu.
 - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
 - Allows temporary removal of all nearby caveworms (until next spawn time)
 - An option to clear all weather 
@@ -105,15 +105,16 @@ Activate the Custom Options Interface with right mouse click, when your fists ar
 
 
 ### 3.  Teleporter (JimK72)
-A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
-This kit unbundles to a teleporter base and handheld remote you can use in-game
-If you purchase 2 x Teleporter bundle kits, it allows 2-way teleportation, walking over base unit or left-mouse, right-mouse click with remote equipped.
-while holding the remote. Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running
+- A mod by Jimk72 that converts the Food Ration item that you can purchase at the workshop, into a Teleporter Bundle Kit.
+- This kit unbundles to a teleporter base and handheld remote you can use in-game.
+- This mod provides Teleporter kit available for purchase in the Workshop, and allows 2-way teleportation, walking over base unit or left-mouse click with remote equipped.
+- This mod includes 2 x Teleporter bundle kits, in the "Pete's Starter Loadout Kit", allowing 2 x 2-way teleport location options, using left-mouse, or right-mouse click with the remote equipped.
+- Tested and works in server mode of play - ensure everyone (including the server) has exactly the same mods running.
 
 ### 4.  Clear_Photo_Lens (JimK72)
-A mod by JimK72 that extends distance limitation in camera mode, as well as removes the camera reticle & menu items
-Activate photo mode by hitting Numpad8
-Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
+- A mod by JimK72 that extends distance limitation in camera mode, as well as removes the camera reticle & menu items
+- Activate photo mode by hitting Numpad8
+- Keys: "ESC"=exit Photo Mode, "ALT"=Camera Menu, "CTRL"=Camera DOWN, "SPACEBAR"=Camera UP, Left, Right movement keys=Camera Left & Camera Right 
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Installation Details
@@ -165,6 +166,9 @@ the place and not in your inventory!  This is expected behaviour.
 None of the unbundled equipment will come back with you after you leave the prospect via dropship. 
 You need to purchase the kits at the Workshop, before launching any mission, Open World, or Outpost. 
 
+## Want Separated Mods?
+- Visit my separated mods page (by request): [https://github.com/laanp/Icarus_Mods_Separated](https://github.com/laanp/Icarus_Mods_Separated)
+
 ## Youtube Links on Overview & How To Use:
 - [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
 - [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
@@ -191,6 +195,4 @@ I have been playing with these mods for quite some time now, with no problems...
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
 
