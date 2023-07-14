@@ -1,6 +1,6 @@
-laanp-Combined_QOL_v1_w85_P.pak
+laanp-Combined_QOL_v1_w84_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
 Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
 
