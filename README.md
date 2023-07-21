@@ -1,8 +1,8 @@
-## laanp-Combined_QOL_v1_w84_P.pak
-
+laanp-Combined_QOL_v1_w85_P.pak
+----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 1.3.6.113408 (Week: 84)
+Compatible with Icarus Version: Rev. 1.3.7.113609 (Week: 85)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -97,15 +97,14 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
-Activate the Custom Options Interface with right mouse click, when your fists are displayed in lower right corner of screen
-- Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
-- Hit "H" key to bring up the hands in the hud.
-- Right-mouse button to bring up Custom Options menu.
-- An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
-- Allows temporary removal of all nearby caveworms (until next spawn time)
-- An option to clear all weather 
-- An option to put out all fires
-- An option to leave via dropshop from anywhere
+To activate the Custom Options Interface: 
+- Hit "H" key to bring up the hands in the hud (fists will be displayed in lower right corner of screen).
+- Right-mouse button click to bring up Custom Options menu:
+  - Allows 700, 800, or 900 unit jump heights, along with double or triple jump option.  
+  - An option to clear all nearby vegetation - within a specified adjustable radius, until next reload
+  - Allows temporary removal of all nearby caveworms (until next spawn time)
+  - An option to put out all fires (does not work currently)
+  - An option to leave via dropshop from anywhere.
 
 
 ### 3.  Teleporter (JimK72)
@@ -197,6 +196,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
