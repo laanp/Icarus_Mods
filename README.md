@@ -2,7 +2,7 @@ laanp-Combined_QOL_v1_w90_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90)
+Compatible with Icarus Version: Rev. 2.0.0.115212 (Week: 90) - New Frontiers Update
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
