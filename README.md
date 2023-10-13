@@ -2,7 +2,7 @@ laanp-Combined_QOL_v1_w97_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.0.116866 (Week: 97)
+Compatible with Icarus Version: Rev. 2.1.0.116866 (Week: 97) - Hypatia Part 1
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
