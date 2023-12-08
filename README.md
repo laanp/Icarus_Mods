@@ -25,7 +25,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
 - High durability on wooden torch (only need one for the entire game!)
 - Water Pump with lower power requirements (500) and high water output (10,000) - No need for additional pump
-- Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
+- Biofuel Generator, Water wheel & Wind Turbine with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
 - Compound Bow & Standard Larkwell arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
