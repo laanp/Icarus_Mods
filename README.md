@@ -77,7 +77,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop item under new Menu called "Pete's Kits" - Contains the following seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (21) seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -99,8 +99,6 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
-    - (5) Tomato
-    - (5) Potato
 
   - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
