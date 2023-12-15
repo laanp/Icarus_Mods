@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v2_w105_P.pak
+laanp-Combined_QOL_v1_w106_P.pak
 ----------------------------------------------------------------------
-Mod Version: 2
+Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.8.118221 (Week: 105)
+Compatible with Icarus Version: Rev. 2.1.9.118433 (Week: 106)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -25,7 +25,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - High durability (10M) for workshop items (Knife, Axe) as well as Titanium Pickaxe & Larkwell Bow along with some extra stats on these items.
 - High durability on wooden torch (only need one for the entire game!)
 - Water Pump with lower power requirements (500) and high water output (10,000) - No need for additional pump
-- Biofuel Generator, Water wheel & Wind Turbine with high power output (50k) - More than enough for all your power needs
+- Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
 - Compound Bow & Standard Larkwell arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
 - "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
@@ -77,7 +77,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (21) seeds:
+  - "Pete's All Seeds Farming Packet" - Workshop Seed Pouch under new Menu called "Pete's Kits" - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -99,6 +99,8 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Strawberry
     - (5) Wheat
     - (5) Fiber
+    - (5) Potato
+    - (5) Tomato
 
   - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (300) Concrete Beams
@@ -226,6 +228,8 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
