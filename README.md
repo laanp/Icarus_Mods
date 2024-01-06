@@ -12,7 +12,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 ## Mod Details:
 ### 1. laanp changes: 
 - Player levels shows actual, beyond 60
-- No fall damage, 1000kg of carry weight, boosted stamina, speed, health, swim and run stats
+- No fall damage, 5000kg of carry weight, boosted stamina, speed, health, swim and run stats
 - All inventory slots stack size increased to 100 
 - Base inventory slots for player changed from 24 - 42
 - 5 x base stomach food slots (plus additional (1) due to food/farming talent, if unlocked)
@@ -28,9 +28,9 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
 - Compound Bow & Standard Larkwell arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
-- "Pete's Resource Killer Module" - suit module from workshop to 1-hit resources (trees, ores, rocks)
+- "Pete's Resource Killer Module" - Suit module from workshop to 1-hit resources (trees, ores, rocks)
   simply remove the module from suit auxilliary slot, to mine normally.
-- "Pete's Insane Leveler Module" - suit module from workshop to increase leveling dramatically with XP activities.
+- "Pete's Insane Leveler Module" - Suit module from workshop to increase leveling dramatically with XP activities.
 - Changed the basic Xigo S5-II suit, as well as the "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance 
 - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
