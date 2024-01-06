@@ -28,9 +28,9 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
 - Biofuel Generator and Water wheel with high power output (50k) - More than enough for all your power needs
 - Water wheels no longer accumulate junk.
 - Compound Bow & Standard Larkwell arrow bundle from workshop - when consumed will yield 100000 arrows - weight = 0, in (1) slot
-- "Mass Dampener Module" - suit module from workshop adjusted to 50% speed boost
-- "Pete's Resource Killer Module" - Workshop Animal Healthbar module revised - suit module from workshop to 1-hit resources (trees, ores, rocks)
+- "Pete's Resource Killer Module" - suit module from workshop to 1-hit resources (trees, ores, rocks)
   simply remove the module from suit auxilliary slot, to mine normally.
+- "Pete's Insane Leveler Module" - suit module from workshop to increase leveling dramatically with XP activities.
 - Changed the basic Xigo S5-II suit, as well as the "Shengong 'Bhiu' Envirosuit" - normally the 'cool' envirosuit, modifed with 4 Aux suit slots, +20% heat/cold resistance 
 - "Gatherer's Backpack" from the workshop now has 18 slots, with -65% weight reduction for ores
 - Changed the requirement for "Condensed_Enzymes" to "Sulfur" for crafting any decorative statues (includes Stone & wood)
@@ -53,19 +53,16 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - Titanium Knife (high durability, added stats)
     - MXC BioFuel Canister (prefilled with 10M units of biofuel!)
     - Wooden Torch (high durability - lasts forever!)
-    - (20) Dried Stringy Meat
-    - (10) Antibiotic Tonic
-    - (10) Anit-Poison Tonic
-    - (1) Mass Dampener Modules (50% speed increase each)
-    - (2) Micromeal (turns into the Teleporter Kit)
-    - (1) Animal Healthbar Module (turns into Pete's Resource Killer module - for 1 hit ore, stone, tree)
+    - (100) Dried Stringy Meat
+    - (100) Antibiotic Tonic
+    - (100) Anti-Poison Tonic
 
   - "Pete's Starter Stone Cabin Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (100) Stone Floors
     - (100) Stone Ramps	
-    - (40) Stone Walls
+    - (100) Stone Walls
     - (4) Stone Angled Walls
-    - (3) reinforced doors
+    - (5) reinforced doors
     - (100) Concrete Beams
     - (1) Campfire
     - (1) Bedroll
@@ -102,28 +99,11 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Potato
     - (5) Tomato
 
-  - "Pete's Circular Construction Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
-    - (300) Concrete Beams
-    - (200) Stone Floors
-    - (40) Stone Walls
-    - (100) Stone Ramps
-    - (2) Reinforced Doors
-    - (40) Interior Wood Creates
-    - (40) Wooden Signs
-
   - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
     - (1) Refined Wood Fishing Rod
     - (1) Advanced Fishing Trap
     - (1) Tackle Box
     - (23) Lures (1 of each kind)
-
-  - "Pete's Promethius Materials Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
-    - (100) Frozen Ore
-    - (100) Clay
-    - (100) Obsidian
-    - (100) Scoria
-    - (100) Crystallized Miasma
-
 
 ### 2.  Custom_Options (Jimk72):
 Mod by JimK72 introduces an interface to set Jump height, and other things. 
