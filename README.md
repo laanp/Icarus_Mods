@@ -188,6 +188,7 @@ You need to purchase the kits at the Workshop, before launching any mission, Ope
 - [Icarus - Quality of Life Mod Series - Part 1 - Download & Installation](https://youtu.be/5_hZUJ0OVdQ)
 - [Icarus - Quality of Life Mod Series - Part 2 - Workshop Kits](https://youtu.be/2nrqFBvmzPc)
 - [Icarus - Quality of Life Mod Series - Part 3 - Teleporter, Custom Options & Clear Lens Photo Mode](https://youtu.be/Cw6RRcEYQ6c)
+- [Icarus - Quality of Life Mod Series - QOL Updates - Latest Updates](https://youtu.be/A1TalqvCXV0)
 
 ## Disclaimer
 - Backup and save all user data before installing or using any mods.
