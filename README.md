@@ -196,7 +196,7 @@ Usually the server settings/mods will override anything running on the local cli
 ## Known Bugs/Issues/Notes - As of this current release.
 ### This mod was designed as a bundled standalone mod that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
 If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
-Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
+Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp_mod_compatibility_matrix.pdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
