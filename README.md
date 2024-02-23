@@ -6,6 +6,12 @@ Compatible with Icarus Version: Rev. 2.1.19.119802 (Week: 116)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
+Update Notice Alert
+---------------------------------------------------------------------
+I am going on much-needed vacation starting Feb. 29th - March 7th, which means I will be back in time to update my mods for Week 118 updates, but will be missing all laanp mod updates for week 117.
+ 
+
+
 ## Description:
 Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Teleporter(Jimk72) and Clear_Photo_Lens(JimK72)
 
