@@ -1,6 +1,6 @@
-laanp-Combined_QOL_v1_w118_P.pak
+laanp-Combined_QOL_v2_w118_P.pak
 ----------------------------------------------------------------------
-Mod Version: 1
+Mod Version: 2
 
 Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
 
@@ -117,7 +117,6 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
     - (10) Portable Beacons - To mark your mining equipment on the map
-    - All custom extractors/harvestor are modified for quick extraction
     - They can be carried & stacked in regular inventory (not in the G-slot)
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
