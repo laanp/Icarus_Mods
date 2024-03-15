@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w118_P.pak
+laanp-Combined_QOL_v1_w119_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 2.1.21.120319 (Week: 118)
+Compatible with Icarus Version: Rev. 2.1.22.120409 (Week: 119)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -79,7 +79,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) Anvil
     - (1) Masonry Bench
 
-  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following (23) seeds:
+  - "Pete's All Seeds Farming Packet" (Seed Pouch Icon) - When consumed on planet, unbundles a modified Seed Pouch (30 slots) that will contain the following seeds:
     - (5) Berry
     - (5) Corn
     - (5) Coffee
@@ -103,6 +103,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (5) Fiber
     - (5) Potato
     - (5) Tomato
+    - (5) Bramble
     - (5) Volatile Exotic Seeds
 
   - "Pete's Fishing Kit" - Workshop item under new Menu called "Pete's Kits" - Contains the following:
@@ -117,6 +118,7 @@ Combines Quality-Of-Life mods(laanp) with others... CustomOptions(Jimk72), Telep
     - (1) "Pete's Ice Borer" - Custom self-powered Super-Cooled Ice Borer
     - (1) "Pete's Exotic Harvester" - Custom self-powered exotic (red) harvester
     - (10) Portable Beacons - To mark your mining equipment on the map
+    - All custom extractors/harvestor are modified for quick extraction
     - They can be carried & stacked in regular inventory (not in the G-slot)
 
 - Adds The Following Workshop Modules under a new Workshop menu called "Pete's Modules":
@@ -193,9 +195,13 @@ Usually the server settings/mods will override anything running on the local cli
 
 
 ## Known Bugs/Issues/Notes - As of this current release.
-### This mod was designed as a bundled standalone mod that affects a number of files, and may not be compatible with Jimk72's Icarus Mod Manager (IMM).
-If installing with other mods using the IMM - SOME THINGS MAY NOT WORK! - You may have success merging with other mods using IMM, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
+### This mod was designed as a bundled standalone mod that affects a number of files and may not be compatible with other mods!
+You may have success merging with other mods using various Mod Managers, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
 Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
+
+### "Pete's Mining Kit"
+Since W117 Update, my original speedier versions of these extractors no longer worked, so all mining speeds are now per normal game mode.  
+I am keeping my eye out for a fix, but it has eluded me thus far. 
 
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
@@ -252,74 +258,6 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
