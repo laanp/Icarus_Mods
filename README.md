@@ -200,8 +200,8 @@ You may have success merging with other mods using various Mod Managers, but do 
 Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### "Pete's Mining Kit"
-Since W117 Update, my original speedier versions of these extractors no longer worked, so all mining speeds are now per normal game mode.  
-I am keeping my eye out for a fix, but it has eluded me thus far. 
+For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
+This does not affect the player, and can be ignored.  All drills will function at higher speeds.
 
 ### Custom Options Interface:
 - "Deactivate Cave Worms" only works in single player client mode. Does not work on Dedicated Server.
