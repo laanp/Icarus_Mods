@@ -215,7 +215,6 @@ Usually the server settings/mods will override anything running on the local cli
 ### This mod was designed as a bundled standalone mod that affects a number of files and may not be compatible with other mods!
 This mod uses a variation of Jimk72's CustomOptions, Teleporter and Camera_Distance mods, so do not merge those mods with this one!! 
 You may have success merging with other mods using various Mod Managers, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
-Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### "Pete's Mining Kit"
 For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
