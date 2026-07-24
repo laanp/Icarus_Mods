@@ -1,8 +1,8 @@
-laanp-Combined_QOL_v1_w241_P.pak
+laanp-Combined_QOL_v1_w242_P.pak
 ----------------------------------------------------------------------
 Mod Version: 1
 
-Compatible with Icarus Version: Rev. 3.0.19.154458 (Week: 241)
+Compatible with Icarus Version: Rev. 3.0.20.154829 (Week: 242)
 
 (QOL) = Quality of Life, let's face it, life is hard - make it easier in games so you can focus on building and exploring! 
 
@@ -215,6 +215,7 @@ Usually the server settings/mods will override anything running on the local cli
 ### This mod was designed as a bundled standalone mod that affects a number of files and may not be compatible with other mods!
 This mod uses a variation of Jimk72's CustomOptions, Teleporter and Camera_Distance mods, so do not merge those mods with this one!! 
 You may have success merging with other mods using various Mod Managers, but do not report these issues as a bug unless you have tested this mod on it's own, with no other mods installed!
+Refer to [laanp Mod Compatibility Matrix](https://github.com/laanp/Icarus_Mods_Separated?tab=readme-ov-file#laanp_mod_compatibility_matrixpdf) for a x-ref of laanp mods that can be used together in the game.
 
 ### "Pete's Mining Kit"
 For some reason there is a "Komodo Bite" modifier state showing, when you hover over the "Pete's Ore Extractor" and "Pete's Ice Borer" with your mouse cursor. 
@@ -276,6 +277,8 @@ The afflictions will still show on your character status effects, however you wi
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
+
+
 
 
 
